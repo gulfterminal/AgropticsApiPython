@@ -1,0 +1,40 @@
+{
+  "field_name": "Field_Test",
+  "total_urls": 2,
+  "successful": 2,
+  "failed": 0,
+  "processing_time_seconds": 2.230583906173706,
+  "timestamp": "2026-04-29T17:15:30.327313",
+  "results": [
+    {
+      "url": "https://raw.githubusercontent.com/gulfterminal-GIS/restructured-Agroptics/main/20250329_180511_67_2516_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif",
+      "filename": "20250329_180511_67_2516_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif",
+      "date": "2025-03-29",
+      "unique_id": "20250329_180511_67_2516",
+      "status": "success",
+      "indices_exported": [
+        "NDVI",
+        "SAVI",
+        "FC",
+        "GCI",
+        "RECI",
+        "MSAVI"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gulfterminal-GIS/restructured-Agroptics/main/20250329_180758_07_2508_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif",
+      "filename": "20250329_180758_07_2508_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif",
+      "date": "2025-03-29",
+      "unique_id": "20250329_180758_07_2508",
+      "status": "success",
+      "indices_exported": [
+        "NDVI",
+        "SAVI",
+        "FC",
+        "GCI",
+        "RECI",
+        "MSAVI"
+      ]
+    }
+  ]
+}

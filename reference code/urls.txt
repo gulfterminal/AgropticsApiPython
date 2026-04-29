@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/gulfterminal-GIS/restructured-Agroptics/main/20250329_180511_67_2516_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif
+https://raw.githubusercontent.com/gulfterminal-GIS/restructured-Agroptics/main/20250329_180758_07_2508_3B_AnalyticMS_SR_8b_harmonized_clip_file_format.tif

@@ -1,0 +1,13 @@
+{
+  "total_fields": 4,
+  "fields_processed": 1,
+  "fields": [
+    {
+      "field": "Field_Test",
+      "crop": "sugarBeet",
+      "dates_count": 2,
+      "planting_date": "2025-03-28",
+      "first_irrig": "2025-06-13"
+    }
+  ]
+}

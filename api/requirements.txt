@@ -1,0 +1,20 @@
+# Agroptics Processing API Requirements
+# =======================================
+# Note: rasterio and numpy should already be installed from your reference code
+
+# Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+rasterio
+pandas
+
+# HTTP Requests (already installed)
+requests
+
+# Progress Bars (already installed)
+tqdm
+
+# Optional: For production deployment
+python-multipart

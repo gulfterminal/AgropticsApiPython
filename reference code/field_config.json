@@ -1,0 +1,54 @@
+{
+  "Field_Test": {
+    "cropType": "sugarBeet",
+    "region": "CA_Desert_USA",
+    "plantingMonth": "march",
+    "soilType": "loam",
+    "plantingDate": "2025-03-28",
+    "firstIrrigDate": "2025-06-13",
+    "lastIrrigDate": "2025-09-09",
+    "irrigDepth": 25.4,
+    "mad": 0.4,
+    "irrEfficiency": 0.85,
+    "maxIrrig": 50.8
+  },
+  "Field_11": {
+    "cropType": "barley",
+    "region": "CA_Desert_USA",
+    "plantingMonth": "dec",
+    "soilType": "loam",
+    "plantingDate": "2025-02-27",
+    "firstIrrigDate": "2025-06-13",
+    "lastIrrigDate": "2025-07-07",
+    "irrigDepth": 25.4,
+    "mad": 0.4,
+    "irrEfficiency": 0.85,
+    "maxIrrig": 50.8
+  },
+  "Field_10": {
+    "cropType": "sugarBeet",
+    "region": "CA_Desert_USA",
+    "plantingMonth": "march",
+    "soilType": "loam",
+    "plantingDate": "2025-03-28",
+    "firstIrrigDate": "2025-06-13",
+    "lastIrrigDate": "2025-09-09",
+    "irrigDepth": 25.4,
+    "mad": 0.4,
+    "irrEfficiency": 0.85,
+    "maxIrrig": 50.8
+  },
+  "Field_12_and_13": {
+    "cropType": "grainCorn",
+    "region": "CA_USA",
+    "plantingMonth": "april",
+    "soilType": "loam",
+    "plantingDate": "2025-05-02",
+    "firstIrrigDate": "2025-06-13",
+    "lastIrrigDate": "2025-08-30",
+    "irrigDepth": 25.4,
+    "mad": 0.4,
+    "irrEfficiency": 0.85,
+    "maxIrrig": 50.8
+  }
+}

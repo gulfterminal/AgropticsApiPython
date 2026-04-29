@@ -1,0 +1,15 @@
+{
+  "total_fields": 1,
+  "fields_processed": 1,
+  "total_dates": 2,
+  "fields": [
+    {
+      "field": "Field_Test",
+      "dates_count": 2,
+      "date_range": {
+        "start": "2025-03-29",
+        "end": "2025-03-29"
+      }
+    }
+  ]
+}
